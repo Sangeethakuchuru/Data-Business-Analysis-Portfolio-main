@@ -1,5 +1,5 @@
 ## About me
-Hello everyone! My name is Sangeetha, and this is my portfolio.<br>
+Hello everyone! My name is Sangeetha.
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
 ## Contents
 * [About me](#about-me)
